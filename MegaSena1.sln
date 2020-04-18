@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaSena1", "MegaSena1\MegaSena1.csproj", "{6110A89E-7C6A-4029-95E5-ED16A19741AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteMega", "TesteMega\TesteMega.csproj", "{C90E9ACC-DDED-48F1-A2A2-1CF01CA6D63E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6110A89E-7C6A-4029-95E5-ED16A19741AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6110A89E-7C6A-4029-95E5-ED16A19741AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6110A89E-7C6A-4029-95E5-ED16A19741AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6110A89E-7C6A-4029-95E5-ED16A19741AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C90E9ACC-DDED-48F1-A2A2-1CF01CA6D63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90E9ACC-DDED-48F1-A2A2-1CF01CA6D63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90E9ACC-DDED-48F1-A2A2-1CF01CA6D63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90E9ACC-DDED-48F1-A2A2-1CF01CA6D63E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD7F161D-B4CD-4647-9415-62A4B875ACC8}
+	EndGlobalSection
+EndGlobal

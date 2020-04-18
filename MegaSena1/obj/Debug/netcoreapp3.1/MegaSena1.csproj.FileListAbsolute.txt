@@ -1,0 +1,9 @@
+C:\Users\qametrik\source\repos\MegaSena1\MegaSena1\bin\Debug\netcoreapp3.1\MegaSena1.deps.json
+C:\Users\qametrik\source\repos\MegaSena1\MegaSena1\bin\Debug\netcoreapp3.1\MegaSena1.dll
+C:\Users\qametrik\source\repos\MegaSena1\MegaSena1\bin\Debug\netcoreapp3.1\MegaSena1.pdb
+C:\Users\qametrik\source\repos\MegaSena1\MegaSena1\obj\Debug\netcoreapp3.1\MegaSena1.csprojAssemblyReference.cache
+C:\Users\qametrik\source\repos\MegaSena1\MegaSena1\obj\Debug\netcoreapp3.1\MegaSena1.csproj.CoreCompileInputs.cache
+C:\Users\qametrik\source\repos\MegaSena1\MegaSena1\obj\Debug\netcoreapp3.1\MegaSena1.AssemblyInfoInputs.cache
+C:\Users\qametrik\source\repos\MegaSena1\MegaSena1\obj\Debug\netcoreapp3.1\MegaSena1.AssemblyInfo.cs
+C:\Users\qametrik\source\repos\MegaSena1\MegaSena1\obj\Debug\netcoreapp3.1\MegaSena1.dll
+C:\Users\qametrik\source\repos\MegaSena1\MegaSena1\obj\Debug\netcoreapp3.1\MegaSena1.pdb

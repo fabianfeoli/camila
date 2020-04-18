@@ -1,0 +1,16 @@
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\bin\Debug\netcoreapp3.1\TesteMega.exe
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\bin\Debug\netcoreapp3.1\TesteMega.deps.json
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\bin\Debug\netcoreapp3.1\TesteMega.runtimeconfig.json
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\bin\Debug\netcoreapp3.1\TesteMega.runtimeconfig.dev.json
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\bin\Debug\netcoreapp3.1\TesteMega.dll
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\bin\Debug\netcoreapp3.1\TesteMega.pdb
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\bin\Debug\netcoreapp3.1\MegaSena1.dll
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\bin\Debug\netcoreapp3.1\MegaSena1.pdb
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\obj\Debug\netcoreapp3.1\TesteMega.csprojAssemblyReference.cache
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\obj\Debug\netcoreapp3.1\TesteMega.csproj.CoreCompileInputs.cache
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\obj\Debug\netcoreapp3.1\TesteMega.AssemblyInfoInputs.cache
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\obj\Debug\netcoreapp3.1\TesteMega.AssemblyInfo.cs
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\obj\Debug\netcoreapp3.1\TesteMega.csproj.CopyComplete
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\obj\Debug\netcoreapp3.1\TesteMega.dll
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\obj\Debug\netcoreapp3.1\TesteMega.pdb
+C:\Users\qametrik\source\repos\MegaSena1\TesteMega\obj\Debug\netcoreapp3.1\TesteMega.genruntimeconfig.cache
