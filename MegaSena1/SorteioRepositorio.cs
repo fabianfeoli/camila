@@ -7,12 +7,15 @@ using System.IO;
 namespace MegaSena1
 {
     public class SorteioRepositorio
-
     {
+
+        List<Sorteio> listaSorteios = new List<Sorteio>();
         public Boolean CarregarDoArquivo(string nomearquivo)
         {
             StreamReader rdr = new StreamReader(nomearquivo);
             int contador = 0;
+
+
 
 
 
@@ -133,7 +136,7 @@ namespace MegaSena1
                             Console.WriteLine("sorteio {0} em {1}, numeros {2}, {3}, {4}, {5}, {6}, {7}", sorteio.NrSorteio,
                                 sorteio.DtSorteio, sorteio.Dez1, sorteio.Dez2, sorteio.Dez3, sorteio.Dez4, sorteio.Dez5,
                                 sorteio.Dez6);
-
+                            listaSorteios.Add(sorteio);
                         }
                     }
                     catch
